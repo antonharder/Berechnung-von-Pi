@@ -1,0 +1,22 @@
+﻿.container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 1.4em;
+    padding: 500px 0;
+}
+
+progress {
+    width: 200px;
+    height: 20px;
+    accent-color: #f2f202;
+}
+
+.progress-label {
+    position: relative;
+}
+
+#result {
+    border: none;
+    text-align: center;
+}
